@@ -1,0 +1,30 @@
+# Ignora archivos y directorios generados automáticamente
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignora archivos de registro y registros generados
+*.log
+logs/
+
+# Ignora archivos generados por herramientas de construcción y dependencias
+*.pyc
+*.pyo
+__pycache__/
+*.so
+*.egg-info/
+dist/
+build/
+env/
+venv/
+
+# Ignora archivos de configuración y secretos (no deben estar en el repositorio)
+config.ini
+secrets.json
+.env
+
+# Ignora archivos temporales y de respaldo
+*~
+*.swp
+*.bak
