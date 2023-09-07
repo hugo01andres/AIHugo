@@ -15,7 +15,7 @@ Before running the code, make sure you have the following:
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your_username/your_repository.git
+    git clone https://github.com/hugo01andres/AIHugo.git
     ```
 
 2. Navigate to the project directory:
